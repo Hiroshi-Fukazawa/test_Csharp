@@ -271,6 +271,7 @@
     <Content Include="Views\SampleWeb\Input.cshtml" />
     <Content Include="Views\SampleWeb\Result.cshtml" />
     <Content Include="Views\SampleWeb\Test.cshtml" />
+    <Content Include="Views\SampleWeb\CommitByUseWork.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

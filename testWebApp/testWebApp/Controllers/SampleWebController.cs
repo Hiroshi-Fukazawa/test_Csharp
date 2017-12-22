@@ -32,5 +32,9 @@ namespace testWebApp.Controllers
         {
             return View();
         }
+        public ActionResult CommitByUseWork()
+        {
+            return View();
+        }
     }
 }
