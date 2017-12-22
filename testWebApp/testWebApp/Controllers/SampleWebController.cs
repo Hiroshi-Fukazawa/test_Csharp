@@ -18,5 +18,10 @@ namespace testWebApp.Controllers
         {
             return View();
         }
+
+        public ActionResult Input()
+        {
+            return View();
+        }
     }
 }
