@@ -26,7 +26,7 @@ namespace testWebApp.Controllers
 
         public ActionResult Result()
         {
-            return View("Show");
+            return View();
         }
     }
 }

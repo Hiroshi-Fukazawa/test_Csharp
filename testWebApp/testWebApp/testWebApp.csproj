@@ -269,6 +269,7 @@
     <Content Include="Views\SampleWeb\Index.cshtml" />
     <Content Include="Views\SampleWeb\Show.cshtml" />
     <Content Include="Views\SampleWeb\Input.cshtml" />
+    <Content Include="Views\SampleWeb\Result.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
